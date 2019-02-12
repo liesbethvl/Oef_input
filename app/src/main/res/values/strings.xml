@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Oef_input</string>
+    <string name="text_lbl_importance">Importance</string>
+    <string name="text_lbl_title">Title</string>
+    <string name="text_lbl_description">Description</string>
+    <string name="text_btn_save">Save</string>
+    <string name="text_rb_low">Low</string>
+    <string name="text_rb_intermediate">Intermediate</string>
+    <string name="text_rb_high">High</string>
+    <string name="text_input_title">Choose your title</string>
+    <string name="text_lbl_date">Date</string>
+    <string name="text_btn_date">Pick a date</string>
+</resources>
